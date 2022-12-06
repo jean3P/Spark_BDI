@@ -1,0 +1,7 @@
+# Project exclude paths
+/out/
+/project/project/target/
+/project/target/
+/target/resolution-cache/
+/target/scala-2.11/classes/
+/target/streams/
